@@ -1,11 +1,4 @@
-/* 
-   Student Name: Christian Seals
-   U number: U56090851
-   Program: project4_add.c
-   Description: This program processes an array by adding the first and last 
-   elements, then the second and second to last, and so on. It handles odd length 
-   arrays by keeping the middle element unchanged.
-*/
+
 
 #include <stdio.h>
 
