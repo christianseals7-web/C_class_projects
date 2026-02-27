@@ -1,13 +1,4 @@
-/*
- * Project 2: Character Analysis and Conversion Program
- * Student: Christian Seals
- * U number: 56090851
- * Description: This program reads a stream of characters one at a time using getchar()
- *              and analyzes them based on their ASCII values. It classifies each
- *              character as uppercase letter, lowercase letter, digit, printable
- *              symbol, or non-printable, and converts letters by changing case. The
- *              program continues until the user enters the termination character '#'.
- */
+
 
 #include <stdio.h>
 
