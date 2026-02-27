@@ -1,11 +1,4 @@
-/* 
-  Student Name: Christian Seals
-  U number: U56090851
-  Program: project4_array.c
-  Description: This program takes two lists of student IDs (arrays) and
-  combines them into a single list containing only distinct elements,
-  simulating a union of a debate club and ethics bowl roster.
-*/
+
 
 #include <stdio.h>
 
