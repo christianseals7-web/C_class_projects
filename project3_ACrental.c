@@ -1,10 +1,4 @@
-/* Student Name: Christian Seals
-   U number: U56090851
-   Program: AC Rental Cost Calculator
-   Description: This program calculates the rental charge for different AC units 
-   based on user selection and number of rental days. It applies first day charges, 
-   daily rates, weekly maximums, and validates user input.
-*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
