@@ -1,9 +1,4 @@
-/* Student Name: Christian Seals
-   U number: U56090851
-   Program: Counselor Assignment
-   Description: This program reads the total number of counselors and the counselors 
-   already assigned, then finds and prints the counselor that hasn't been assigned.
-*/
+
 
 #include <stdio.h>
 
